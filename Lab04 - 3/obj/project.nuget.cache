@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QINE/e3NtJDKKKh216UIX9kxbT5qvjSrMlH9d/RhOhS51M27X9KDzB2c4ZbpFLFdSapZa66gWL2NQ9UOnURqRQ==",
+  "success": true,
+  "projectFilePath": "E:\\University\\Work\\Labs\\ІКС - C#\\Lab04 - 6\\Lab04 - 3.2\\Lab04 - 3\\Lab04 - 3\\Lab04 - 3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ineon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
